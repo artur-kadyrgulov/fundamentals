@@ -1,0 +1,14 @@
+{
+  "name": "fundamentals",
+  "version": "1.0.0",
+  "description": "Simple project for learn fundamentals functions of nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Fundamentals"
+  ],
+  "author": "Artur Kadyrgulov <arturkadyrgulov@gmail.com>",
+  "license": "ISC"
+}
