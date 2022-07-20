@@ -10,5 +10,8 @@
     "Fundamentals"
   ],
   "author": "Artur Kadyrgulov <arturkadyrgulov@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
 }
