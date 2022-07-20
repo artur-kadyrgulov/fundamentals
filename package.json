@@ -1,5 +1,6 @@
 {
   "name": "fundamentals",
+  "type": "module",
   "version": "1.0.0",
   "description": "Simple project for learn fundamentals functions of nodejs",
   "main": "index.js",
@@ -13,5 +14,8 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
   }
 }
